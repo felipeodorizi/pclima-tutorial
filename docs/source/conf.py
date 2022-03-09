@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Felipe'
+project = 'PCLIMA'
 copyright = '2021, Felipe'
 author = 'Felipe'
 
