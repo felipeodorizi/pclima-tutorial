@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+PCLIMA - Python library lumache.py
 """
 
 __version__ = "0.1.0"
